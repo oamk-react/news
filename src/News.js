@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 const URL = 'https://newsapi.org/v2';
-const APIKEY = 'd4fd82b33f5a45988cbb0680fdc2b819';
+const APIKEY = 'YOUR API KEY HERE';
 
 export default class News extends Component {
 
